@@ -10,7 +10,7 @@
 #### Installation:
 
 - Main File - [JIP LN NVSE Plugin](https://www.nexusmods.com/newvegas/mods/58277)
-  - Main File - [JIP LN - INI](https://www.nexusmods.com/newvegas/mods/79005?tab=requirements&file_id=1000130919&nmm=1)
+  - Main File - [JIP LN - INI](https://www.nexusmods.com/newvegas/mods/58277?tab=files&file_id=1000114298&nmm=1)
     - **Ensure the following INI settings are enabled**:
       - bLocalizedDTDR=1
       - uNPCPerks=1
