@@ -1,9 +1,9 @@
-[!caution]
->STARS is a comprehensive, dramatic overhaul of the entire TTW armor suite. It completely rebalances the ***stats, appearance, and effects of every single armor in the game***, fundamentally alters the way power armor functions, and adds a massive collection of the best armor replacers and additions from across the nexus. **READ THE DESCRIPTION** on the mod page carefully.
+> [!caution]
+> STARS is a comprehensive, dramatic overhaul of the entire TTW armor suite. It completely rebalances the ***stats, appearance, and effects of every single armor in the game***, fundamentally alters the way power armor functions, and adds a massive collection of the best armor replacers and additions from across the nexus. **READ THE DESCRIPTION** on the mod page carefully.
 >
->This is a **EXTREMELY COMPLICATED AND LENGTHY** installation process that must be followed very carefully to avoid missing textures in game.
+> This is a **EXTREMELY COMPLICATED AND LENGTHY** installation process that must be followed very carefully to avoid missing textures in game.
 >
->Many plugins and folders will need to be **HIDDEN** throughout the installation process. This can be accomplished by installing the mod as instructed, right clicking the mod, clicking information, navigating to the filetree tab, right clicking on the pertinent plugin or folder, and selecting hide. Support **WILL NOT** be provided for those who fail to follow these instructions. STARS will provide an alert in-game if any assets are missing or managed incorrectly.
+> Many plugins and folders will need to be **HIDDEN** throughout the installation process. This can be accomplished by installing the mod as instructed, right clicking the mod, clicking information, navigating to the filetree tab, right clicking on the pertinent plugin or folder, and selecting hide. Support **WILL NOT** be provided for those who fail to follow these instructions. STARS will provide an alert in-game if any assets are missing or managed incorrectly.
 
 ### [STARS TTW - Sweet's Total Armor Rework System](https://www.nexusmods.com/newvegas/mods/76016) <sup>~~Vanilla +~~</sup>
 
