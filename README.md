@@ -9,21 +9,21 @@
 
 #### Installation:
 
-- Main File - [JIP LN NVSE Plugin](https://www.nexusmods.com/newvegas/mods/58277), you should already have this from following The Best of Times guide.
-  - Main File - [JIP LN - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=requirements&file_id=1000130919&nmm=1), you should already have this if following the guide.
-    - **Ensure the following INI settings are enabled**, which they should already be if using the provided Custom INI.
+- Main File - [JIP LN NVSE Plugin](https://www.nexusmods.com/newvegas/mods/58277)
+  - Main File - [JIP LN - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=requirements&file_id=1000130919&nmm=1)
+    - **Ensure the following INI settings are enabled**:
       - bLocalizedDTDR=1
       - uNPCPerks=1
-- Main File - [lStewieAl's Tweaks and Engine Fixes](https://www.nexusmods.com/newvegas/mods/66347), you should already have this from following The Best of Times guide.
-  - Main File - [Stewie Tweaks - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=requirements&file_id=1000131285&nmm=1), you should already have this if following the guide.
-    - **Ensure the following INI settings are enabled**, which they should already be if using the provided Custom INI.
+- Main File - [lStewieAl's Tweaks and Engine Fixes](https://www.nexusmods.com/newvegas/mods/66347)
+  - Main File - [Stewie Tweaks - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=requirements&file_id=1000131285&nmm=1)
+    - **Ensure the following INI settings are enabled**:
       - bDisableStealthEffectInPipboy = 0
       - bWeightlessWornArmor = 1
       - bWeightlessWornPowerArmor = 0
       - bEquipBrokenItems = 0
-- Main File - [JohnnyGuitar NVSE](https://www.nexusmods.com/newvegas/mods/66927), you should already have this from following The Best of Times guide.
-- Main FIle - [JIP Localized Damage Fix](https://www.nexusmods.com/newvegas/mods/76330), you should already have this if following the guide.
-- Main File - [SPAHUD](https://www.nexusmods.com/newvegas/mods/86369), you should already have this if following the guide.
+- Main File - [JohnnyGuitar NVSE](https://www.nexusmods.com/newvegas/mods/66927)
+- Main FIle - [JIP Localized Damage Fix](https://www.nexusmods.com/newvegas/mods/76330)
+- Main File - [Pipboy Holo Panel ESPless](https://www.nexusmods.com/newvegas/mods/86483)
 - Main File - [Tranquility Lane Fix](https://www.nexusmods.com/newvegas/mods/77018?tab=files&file_id=1000094179&nmm=1)
 - Main File - [Wasteland Soldier - NV Edition Main File](https://www.nexusmods.com/newvegas/mods/46278?tab=files&file_id=105348&nmm=1)
   - **HIDE** the Wasteland Soldier - NV Edition.esp plugin.
