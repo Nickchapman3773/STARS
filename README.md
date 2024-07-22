@@ -164,6 +164,3 @@
   - If you downloaded [(Benny Humbles You) and Steals Your Stuff](https://www.nexusmods.com/newvegas/mods/71112)
 - Optional File - [Wasteland Starting Gear DC Patch](https://www.nexusmods.com/newvegas/mods/76016?tab=files)
   - If you downloaded [Wasteland Starting Gear DC](https://www.nexusmods.com/newvegas/mods/75789)
-- Main File - [STAR TTW - Uncut Extra Collection Patch](https://www.nexusmods.com/newvegas/mods/83792?tab=files)
-  - If you downloaded [Uncut Wasteland](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110262&nmm=1) and [Uncut Extra Collection](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000110263&nmm=1)
-
