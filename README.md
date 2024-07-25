@@ -19,7 +19,7 @@
     - **Ensure the following INI settings are enabled**:
       - bDisableStealthEffectInPipboy = 0
       - bWeightlessWornArmor = 1
-      - bWeightlessWornPowerArmor = 0
+      - bWeightlessWornPowerArmor = 1
       - bEquipBrokenItems = 0
 - Main File - [JohnnyGuitar NVSE](https://www.nexusmods.com/newvegas/mods/66927)
 - Main FIle - [JIP Localized Damage Fix](https://www.nexusmods.com/newvegas/mods/76330)
