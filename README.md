@@ -164,3 +164,5 @@
   - If you downloaded [(Benny Humbles You) and Steals Your Stuff](https://www.nexusmods.com/newvegas/mods/71112)
 - Optional File - [Wasteland Starting Gear DC Patch](https://www.nexusmods.com/newvegas/mods/76016?tab=files)
   - If you downloaded [Wasteland Starting Gear DC](https://www.nexusmods.com/newvegas/mods/75789)
+- Optional File - [Simple Night Vision](https://www.nexusmods.com/newvegas/mods/84991?tab=files)
+  - If you downloaded [Simple Night Vision](https://www.nexusmods.com/newvegas/mods/84991)
